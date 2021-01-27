@@ -4,3 +4,5 @@ Learning objectives:
 * What is GitHub
 * What is the difference between Git and GitHub
 * How to create a repository
+
+Updated version*
